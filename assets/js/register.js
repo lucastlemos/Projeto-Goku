@@ -103,7 +103,7 @@ function cadastrar() {
         }, 3000)
 
         setTimeout(() => {
-            window.location.href = 'login.html'
+            window.location.href = 'index.html'
         }, 4000)
 
     } else {
